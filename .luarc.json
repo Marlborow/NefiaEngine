@@ -1,6 +1,8 @@
 {
   "runtime.version": "LuaJIT",
-  "workspace.library": ["./source"],
+  "workspace.library": [
+    "./Types"
+  ],
   "workspace.checkThirdParty": false,
   "diagnostics.disable": [
     "lowercase-global"
