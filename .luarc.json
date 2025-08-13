@@ -1,0 +1,16 @@
+{
+  "runtime.version": "LuaJIT",
+  "workspace.library": ["./source"],
+  "workspace.checkThirdParty": false,
+  "diagnostics.disable": [
+    "lowercase-global"
+  ],
+  "diagnostics.globals": [
+    "window", "Application",
+    "RenderWindow", "Texture", "Sprite",
+    "CircleShape", "RectangleShape",
+    "Keyboard", "Mouse", "Gamepad",
+    "Vec2", "Vec3",
+  ]
+}
+
