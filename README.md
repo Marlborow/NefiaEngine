@@ -1,5 +1,18 @@
-# Nefia Engine
+Nefia Engine
 
-Nefia Engine is a custom LÖVE–based client for Elin, built to make game modifications and extensions easier through the Lua programming language.
+Nefia Engine is a custom LÖVE–powered client for Elin, designed to simplify modding and customization using Lua.
+## Features (Planned)
 
-    Disclaimer: Nefia Engine is in early development and not yet ready for general use. Expect missing features, frequent changes, and potential breaking updates.
+    Fully Lua-scriptable core
+
+    Easy texture and asset swapping
+
+    Modular game systems for rapid experimentation
+
+## Project Status
+
+This project is in early development.
+It is not yet ready for public use, and functionality may change without notice.
+
+## License & Disclaimer
+Nefia Engine is an independent project. It requires a licensed copy of Elin to run, and includes no game assets.
